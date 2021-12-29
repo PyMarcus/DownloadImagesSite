@@ -1,0 +1,11 @@
+Abra a pasta dist e execute o Main.exe
+E aguarde, deve demorar.
+
+Se não abrir o navegador, VOCE DEVE ESTAR USANDO O CHROME, entao, baixe uma versão compativel com o seu chromedriver.exe
+
+#### AS IMAGENS SERÃO SALVAS EM C:/usuario/ImagesZap
+
+
+
+
+By: Marcus-V@outlook.com
