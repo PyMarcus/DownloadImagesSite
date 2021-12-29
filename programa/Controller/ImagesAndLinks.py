@@ -29,7 +29,7 @@ class ImagesAndLinks:
         return codigos, imagens
 
     @staticmethod
-    def cod_produto():
+    def cod_produto() -> list:
         codigos: list = ImagesAndLinks.get_all()[0]
         codigo_armazenar: list = []
         print("Capturando os códigos dos produtos")
@@ -45,7 +45,7 @@ class ImagesAndLinks:
         return codigo_armazenar
 
     @staticmethod
-    def image():
+    def image() -> None:
         images: list = ImagesAndLinks.get_all()[1]
         links: list = []
         print("Baixando imagens")
