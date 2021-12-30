@@ -3,7 +3,7 @@ from programa.Controller.ImagesAndLinks import ImagesAndLinks
 
 class ScrappingImages:
 
-    __site = "https://www.zapgrafica.com.br/loja/home"
+    __site = "siteDaLojaAqui"
 
     @classmethod
     def download_image(cls) -> None:
